@@ -17,3 +17,5 @@ En este repositorio se almacenan algunas de las practicas asi como una breve exp
 ### Info de los Scripts
 
 Como primer ejemplo tomaremos el archivo de powershell llamado Tarea2_1926940.ps1 el cual, si lo ejecutamos </a>
+nos dara varias opciones. </a>
+El script consiste en un escaneo de red
