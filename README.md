@@ -30,7 +30,6 @@ En este script, de manera similar al visto con powershell tendra un funcion simi
 El script tambien cuenta con varias opciones en la primer opcion tal y como se menciono en el script de powershell tambien
 escaneara nuestra red y nos mostrara los equipos conectados a nuestra red y nos dara nuestra subred.
 En la segunda opcion tendremos que ejecutarlo de la siguiente manera: 
-
-'''
+```
 ./skynet.sh "10.0.0.101"
-'''
+```
