@@ -8,15 +8,15 @@
 5. [Reloj](#Script4)
 
 <a name="general-info"></a>
-## Informacion General
+## -Informacion General
 ### Producto Integrador de Aprendizaje
 **Unidad de Aprendizaje:** Programacion para Ciberseguridad
 
 Producto final de la materia de Laboratorio de programacion para ciberseguridad.
 En este repositorio se almacenan algunas de las practicas asi como una breve explicacion de estas.
 
-## Script de Powershell
 <a name=Script1></a>
+## -Script de Powershell
 
 Como primer ejemplo tomaremos el archivo de powershell llamado Tarea2_1926940.ps1 el cual, si lo ejecutamos
 nos dara varias opciones.
@@ -26,8 +26,8 @@ la cual sera utilizada para un escaneo y nos desplegara en pantalla una lista de
 (la lista de puertos ya viene incluida dentro del script, usando una lista de puertos que mas comunmente se encuentran
 abiertos). Y por ultimo tenemos la opcion de salir el cual nos sacara de la ejecucion y no hara nada.
 
-## Script de Bash
 <a name=Script2></a>
+## -Script de Bash
 
 En este script, de manera similar al visto con powershell tendra un funcion similar, el nombre del script es skynet.sh
 El script tambien cuenta con varias opciones en la primer opcion tal y como se menciono en el script de powershell tambien
@@ -44,15 +44,15 @@ la opcion 2
 Si se selecciona la tercera opcion se nos desplegara en pantalla informacion como el nombre de equipo en donde se ejecuto el script
 el nombre del usuario y el sistema operativo utilizado 
 
-## Web Scrapping
 <a name="Script3"></a>
+## -Web Scrapping
 
 En este codigo al ejecutarlo lo que hara es recopilar informacion de una pagina llamada 'fake jobs', utilizando beutifulsoup, se podra
 extraer informacion como nombre de trabajadores, area de trabajo, entre otra informacion, ademas esta informacion la guardara en un
 archivo tipo csv.
 
-## Reloj
 <a name="Script4"></a>
+## -Reloj
 
 Dentro de este repositorio encontraremos una carpeta llamada 'Reloj', dentro tendra los archivos de un ejecutanle de python asi como
 el script a partir del cual se creo el ejecutable. El ejecutable estara dentro de la carpetea llamada dist con el nombre de 
