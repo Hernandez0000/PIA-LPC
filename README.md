@@ -4,6 +4,7 @@
 1. [Informacion General](#general-info)
 2. [Script Powershell](#Script1)
 3. [Script Bash](#Script2)
+4. [Web Scrapping](#Script3)
 
 ## Informacion General
 <a name="general-info"></a>
@@ -31,5 +32,14 @@ El script tambien cuenta con varias opciones en la primer opcion tal y como se m
 escaneara nuestra red y nos mostrara los equipos conectados a nuestra red y nos dara nuestra subred.
 En la segunda opcion tendremos que ejecutarlo de la siguiente manera: 
 ```
-./skynet.sh "10.0.0.101"
+./skynet.sh 11.0.0.24
 ```
+Se ejecuta desde la terminal de bash con el nombre del script seguido del puerto que se quiere escanear (el puerto que se muestra
+es uno de prueba), de esta manera nos desplegara una lista de los puertos que estan abiertos o cerrados de la direccion ip
+que se proporciono. Ademas en la lista de opciones si se quiere saber que puertos estan abierto o cerrados se debera seleccionar
+la opcion 2
+
+Si se selecciona la tercera opcion se nos desplegara en pantalla informacion como el nombre de equipo en donde se ejecuto el script
+el nombre del usuario y el sistema operativo utilizado 
+
+<a name="Script3"></a>
